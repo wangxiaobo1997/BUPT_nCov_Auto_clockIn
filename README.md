@@ -13,7 +13,7 @@
 
 ## 操作说明
 1. 将本仓库Fork一份
-2. 打开自己Fork的仓库，根据`.github/workflows/main.yml`中的字段，添加环境变量
+2. 打开自己Fork的仓库，根据`.github/workflows/main.yml`中的字段，添加环境变量_tocc
 即
 ```
 env:
